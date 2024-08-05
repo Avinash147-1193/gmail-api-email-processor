@@ -2,7 +2,7 @@
 
 1. Clone the below github repository.
 
-    git clone https://github.com/yourusername/gmail-api-email-processor.git
+    https://github.com/Avinash147-1193/gmail-api-email-processor.git
     cd gmail-api-email-processor
     
 
@@ -34,4 +34,4 @@
 
 ## Demo Video
 
-- [Link to demo video](#)
+- [Link to demo video: https://www.loom.com/share/d973e29666e7450fba92c9a52b57d59a?sid=e714a05d-d5da-419c-a073-73525f57f197](#)
