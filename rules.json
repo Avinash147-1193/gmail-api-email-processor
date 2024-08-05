@@ -1,0 +1,34 @@
+{
+    "predicate": "All",
+    "rules": [
+        {
+            "conditions": [
+                {
+                    "field": "From",
+                    "predicate": "Contains",
+                    "value": "naukrialerts@naukri.com"
+                },
+                {
+                    "field": "Subject",
+                    "predicate": "Contains",
+                    "value": "job"
+                }
+            ],
+            "actions": [
+                "Mark as read"
+            ]
+        },
+        {
+            "conditions": [
+                {
+                    "field": "Received",
+                    "predicate": "Less than",
+                    "value": "2024-01-01"
+                }
+            ],
+            "actions": [
+                "Mark as unread"
+            ]
+        }
+    ]
+}
